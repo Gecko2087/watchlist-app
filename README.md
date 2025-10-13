@@ -1,3 +1,7 @@
+🌍 Link del proyecto desplegado
+Accedé a la app online en:
+https://whatchlist-geck0-nodo.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
