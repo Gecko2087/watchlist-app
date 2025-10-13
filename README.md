@@ -1,6 +1,7 @@
-🌍 Link del proyecto desplegado
-Accedé a la app online en:
-https://whatchlist-geck0-nodo.netlify.app/
+## 🌍 Link del proyecto desplegado
+
+Accedé a la app online en:  
+🔗 https://whatchlist-geck0-nodo.netlify.app
 
 # React + Vite
 
